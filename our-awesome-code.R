@@ -1,3 +1,5 @@
+# arguments need to be numbers
+
 awesome_function_1 <- function(argument1, argument2) {
     if ((argument1 - argument2) > 0) {
   return(c(argument1, "winner"))
